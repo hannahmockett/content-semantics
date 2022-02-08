@@ -55,15 +55,16 @@
 
   </main>
 
- <h2>Tags</h2>
-   <ul>
-     <li>Crimson</li>
-     <li>Awesome</li>
-     <li>Pickle-able</li>
-     <li>Vegetable!</li>
-     <li>Delicious</li>
-   </ul>
-
+  <aside>
+   <h2>Tags</h2>
+     <ul>
+       <li>Crimson</li>
+       <li>Awesome</li>
+       <li>Pickle-able</li>
+       <li>Vegetable!</li>
+       <li>Delicious</li>
+     </ul>
+  </aside>
 </body>
 
 <footer>Source: <a href="#">Wikipedia</a>; Last modified: <time>8/30/2014</time>Aug 30, 2014</footer>
