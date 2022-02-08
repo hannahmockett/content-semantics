@@ -64,9 +64,7 @@
      <li>Delicious</li>
    </ul>
 
-
-
 </body>
 
-<footer>Source: <a href="#">Wikipedia</a>; Last modified: Aug 30, 2014</footer>
+<footer>Source: <a href="#">Wikipedia</a>; Last modified: <time>8/30/2014</time>Aug 30, 2014</footer>
 </html>
